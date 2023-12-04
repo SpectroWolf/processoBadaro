@@ -1,16 +1,4 @@
-# processo_badaro
+# Processo Seletivo Badaró
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Projeto referente ao procesos seletivo/desafio de código da Badaró, o mesmo também conta com uma parte de arquitetura.
+Segue link para a mesma: https://doc.clickup.com/9007084037/d/h/8cducg5-420/9eb272e1d70f28b
